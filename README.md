@@ -15,3 +15,4 @@ This repository contains some random, smaller projects that I work on. These are
 
 6. Tic-Tac-Toe: Tic-Tac-Toe game. Uses Python's *turtle* library. This would've been much better if I had learned how to detect where a player clicks, but I learned the method a day after I finished, so user's have to use the terminal. It's a miserable UX, but maybe I can make it better in the future.
 
+7. Folder-Naming: This project will recursively rename all files and folders within a specified folder path to have 1 consistent naming convention. I just had **Claude** make this because my *Math* repository had a naming convention I didn't like, but I figured I'd include it here in case I needed it again.
